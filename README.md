@@ -1,7 +1,7 @@
 # content-slider
 
 [![Size](https://img.shields.io/github/size/astrocaleb/content-slider/dist/content-slider.min.js)](https://www.npmjs.com/package/@astrocaleb/content-slider)
-[![Dependencies](https://img.shields.io/david/astrocaleb/content-slider.svg)](https://www.npmjs.com/package/@astrocaleb/content-slider)
+![npm](https://img.shields.io/npm/dw/@astrocaleb/content-slider)
 
 > Visually navigate between layered content without leaving the page.
 
