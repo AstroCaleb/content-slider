@@ -51,7 +51,7 @@ The following data attributes are required for each content slider instance:
 - `data-content-slider` (only one per instance)
 - `data-cs-panes` (only one per instance)
 - `data-cs-pane` (as many as you need)
-- *Only* if defining breadcrumb markup manually (see [examples](#examples)):
+- *Only* if defining breadcrumb markup manually (see [examples](#examples-interactive-examples)):
   - `data-cs-breadcrumbs` (only one per instance)
   - `data-slider-breadcrumb` (as many as you need)
 
@@ -207,7 +207,7 @@ const slider = new ContentSlider('.my-content-slider', {
 - [`breadcrumbsEnabled`](#breadcrumbsEnabled)
 - [`automaticBreadcrumbs`](#automaticBreadcrumbs)
 - [`progressiveBreadcrumbs`](#progressiveBreadcrumbs)
-- [`css`](#css)
+- [`css`](#css-1)
 
 ### callback
 
